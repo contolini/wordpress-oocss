@@ -1,0 +1,14 @@
+/* **************** CONTENT OBJECTS ***************** */
+
+/* ====== Elements ====== */
+img{display:block;}
+em{font-style: italic;}
+strong{font-weight:bold;}
+a {text-decoration: none;}
+a:focus, a:hover {text-decoration: underline;}
+
+/* ====== Lists ======*/
+/* numbered list */
+ol.simpleList li{list-style-type: decimal; margin-left:40px;}
+/* standard list */
+ul.simpleList li{list-style-type:disc; margin-left:40px;}

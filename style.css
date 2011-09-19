@@ -1,0 +1,15 @@
+/*
+Theme Name: OOCSS Toolbox
+Template: toolbox
+Author: Chris Contolini
+Author URI: http://contolini.com/
+Description: Object-Oriented CSS WordPress theme. Requires Automattic's Toolbox theme. Based on Nicole Sullivan's OOCSS framework.
+Version: 0.9
+License: GNU General Public License
+License URI: license.txt
+Tags: oocss
+
+*/
+
+@import url("styles/core/core.css");
+@import url("styles/plugins/plugins.css");
